@@ -21,5 +21,5 @@ C:\ProgramData\Anaconda3\lib\site-packages\sklearn\ensemble\iforest.py:415: Depr
 For Dataset:-
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-Idea Taken from here & some source code also  :-
+For Documentation, Idea & some source code taken from here  :-
 https://www.kaggle.com/sundarshahi/credit-card-fraud-detection-eduonix-solution
