@@ -18,3 +18,5 @@ SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in positio
 C:\ProgramData\Anaconda3\lib\site-packages\sklearn\ensemble\iforest.py:415: DeprecationWarning: threshold_ attribute is deprecated in 0.20 and will be removed in 0.22.
   " be removed in 0.22.", DeprecationWarning)
   
+For Dataset:-
+https://www.kaggle.com/mlg-ulb/creditcardfraud
