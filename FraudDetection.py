@@ -102,7 +102,7 @@ for i, (clf_name, clf) in enumerate(classifiers.items()):
     y_pred[y_pred == -1] = 1
     
     n_errors = (y_pred != Y).sum()
-    
+
     # Run classification metrics
     print('{}: {}'.format(clf_name, n_errors))
     print(accuracy_score(Y, y_pred))
