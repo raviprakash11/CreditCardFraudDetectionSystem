@@ -2,6 +2,12 @@
 
 
 
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
   <body>
       <!-- <h2>
         Steps to run codes:
@@ -39,3 +45,4 @@
 
     <h2>For Documentation, Idea & some source code taken from here :-</h2> https://www.kaggle.com/sundarshahi/credit-card-fraud-detection-eduonix-solution
   </body>
+</html>
