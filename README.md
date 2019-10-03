@@ -27,6 +27,7 @@ The Credit Card Fraud Detection Problem includes modeling past credit card trans
 
 
 <h2>Some Screenshots.</h2>
+<h3>bar graph</h3>
 
 ![Screenshot](https://raw.github.com/raviprakash11/CreditCardFraudDetection/master/Screenshot1.png)
 
